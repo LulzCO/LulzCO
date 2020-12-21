@@ -1,19 +1,12 @@
 ### Welcome to LulzCO Profile! ☕
 
-I'm a Malaysian Computer Science student and a weeb who quiet useless 
+<p>Hey! I'm LulzCO and I'm a Malaysian 🇲🇾 useless weeb and a Computer Science Student 💻!</p>
 <ul>
-  🔧 - I'm currently working on a Discord-Reddit API Bot, Sikaira, using Python as a side project for fun
-
-  📚 - I still learning Python for now before starting my real career adventure on becoming an Android Developer specialiazing in Kotlin and Java 
-
-  ☕ - I'm also targeting on becoming a blogger as a side activity than just doing Python and Kotlin things, of course with HTML-CSS to master with 
-
-  ⚡ - Fun fact: I might try my luck in desktop application field but not for my career since I'm targeting on becoming an Android Developer even not managed to work with big       company like Google, Microsoft and such
-
-  💻 - I'm still young by the way which means I'm under 18 but not under 13. Sorry if I making stupid decisions and such 
-</ul>
-
-Well, that is a little bit info about me, thanks for read! 
+    <li>I'm still learning to code in Python 🐍</li>
+    <li>I'm interested in Android Development and I will learn Java before Kotlin after I finished my Python learning ☕</li>
+    <li>For now I can use Python for API purpose such as for Discord and Reddit 💻</li>
+    <li>I'm still young by the way, sorry if I making such weird projects or even weird decisions 🙏🏻</li>
+</ul> 
 
 
 
